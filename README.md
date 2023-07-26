@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauldipjoy&label=Profile%20views&color=0e75b6&style=flat" alt="pauldipjoy" /> </p>
 
-- 🔭 I’m currently working on **intimate projects**
+- 🔭 I’m currently working on **some intimate projects for interview and office work**
 
 - 🌱 I’m currently learning **MERN**
 
